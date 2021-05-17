@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Assesment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_enter_email">Please enter your email</string>
+    <string name="error_enter_pwd">Please enter your Password</string>
+    <string name="error_invalid_pwd">Password is not valid. Please enter atleast one special char and one numeric number</string>
+    <string name="error_inavlid_email">Invalid email address.</string>
+</resources>

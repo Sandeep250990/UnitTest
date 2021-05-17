@@ -1,1 +1,1 @@
-# UnitTest
+--Kindly comment the password validation check in LoginViewModel class to test the api response for login.
